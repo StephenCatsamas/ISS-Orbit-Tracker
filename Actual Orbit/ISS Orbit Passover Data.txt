@@ -1,0 +1,89 @@
+1 25544U 98067A   17275.24019632  .00004771  00000-0  79518-4 0  9992
+2 25544  51.6405 224.6502 0004112 333.6312 106.5771 15.54042096 78405
+
+NORAD ID: 25544  
+Int'l Code: 1998-067A  
+Perigee: 409.3 km  
+Apogee: 414.9 km  
+Inclination: 51.6 °  
+Period: 92.7 minutes  
+Semi major axis: 6783 km  
+RCS: 401.801 m2 (large)  
+Launch date: November 20, 1998 
+Source: International Space Station (ISS) 
+Launch site: TYURATAM MISSILE AND SPACE COMPLEX (TTMTR) 
+Uplink (MHz): 145.825	
+Downlink (MHz): 145.825	
+Beacon (MHz): 145.825	
+Mode: 1200bps AFSK	
+Call sign: RS0ISS ARISS	
+Status: Active
+
+-------------------------------------------------------------------------------------
+
+1 25544U 98067A   17295.05635412  .00002764  00000-0  48842-4 0  9999
+2 25544  51.6405 125.8638 0005284  47.0242  96.4597 15.54224921 81480
+
+NORAD ID: 25544  
+Int'l Code: 1998-067A  
+Perigee: 408.0 km  
+Apogee: 415.1 km  
+Inclination: 51.6 °  
+Period: 92.7 minutes  
+Semi major axis: 6782 km  
+RCS: 401.801 m2 (large)  
+Launch date: November 20, 1998 
+Source: International Space Station (ISS) 
+Launch site: TYURATAM MISSILE AND SPACE COMPLEX (TTMTR) 
+Uplink (MHz): 145.825	
+Downlink (MHz): 145.825	
+Beacon (MHz): 145.825	
+Mode: 1200bps AFSK	
+Call sign: RS0ISS ARISS	
+Status: Active
+
+-------------------------------------------------------------------------------------
+
+1 25544U 98067A   17304.16319444  .00003313  00000-0  56927-4 0  9990
+2 25544  51.6420  80.4580 0005609  74.5877 298.7852 15.54307749 82908
+
+NORAD ID: 25544  
+Int'l Code: 1998-067A  
+Perigee: 407.5 km  
+Apogee: 415.1 km  
+Inclination: 51.6 °  
+Period: 92.6 minutes  
+Semi major axis: 6782 km  
+RCS: 401.801 m2 (large)  
+Launch date: November 20, 1998 
+Source: International Space Station (ISS) 
+Launch site: TYURATAM MISSILE AND SPACE COMPLEX (TTMTR) 
+Uplink (MHz): 145.825	
+Downlink (MHz): 145.825	
+Beacon (MHz): 145.825	
+Mode: 1200bps AFSK	
+Call sign: RS0ISS ARISS	
+Status: Active
+
+---------------------------------------------------------------------------------
+
+1 25544U 98067A   17329.95298476  .00003551  00000-0  60650-4 0  9997
+2 25544  51.6421 311.8940 0004204 152.9062 248.3491 15.54231379 86917
+
+NORAD ID: 25544  
+Int'l Code: 1998-067A  
+Perigee: 408.7 km  
+Apogee: 414.4 km  
+Inclination: 51.6 °  
+Period: 92.7 minutes  
+Semi major axis: 6782 km  
+RCS: 401.801 m2 (large)  
+Launch date: November 20, 1998 
+Source: International Space Station (ISS) 
+Launch site: TYURATAM MISSILE AND SPACE COMPLEX (TTMTR) 
+Uplink (MHz): 145.825	
+Downlink (MHz): 145.825	
+Beacon (MHz): 145.825	
+Mode: 1200bps AFSK	
+Call sign: RS0ISS ARISS	
+Status: Active

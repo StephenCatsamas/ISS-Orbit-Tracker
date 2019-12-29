@@ -1,0 +1,10 @@
+Epoch (UTC):	26 November 2017 12:35:01
+Eccentricity:	0.0003778
+inclination:	51.6387°
+perigee height:	402 km
+apogee height:	407 km
+right ascension of ascending node:	309.0492°
+argument of perigee:	152.1327°
+revolutions per day:	15.54230645
+mean anomaly at epoch:	208.0029°
+orbit number at epoch:	699
